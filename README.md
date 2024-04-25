@@ -1,9 +1,9 @@
 # About Me 👋 :
 
-I am a competent IT professional with a proven track record in designing websites,
-networking and managingdatabases. I have strong technical skills as well as good
-interpersonal skills, enabling me to interact with a wide
-range of clients. I am eager to be challenged in order to grow and further improve my IT skills. My
+I am a IT professional with a proven track record in designing websites,
+networking and managingdatabases. I have a technical skills as well as good
+interpersonal skills, enabling me to interact with a clients.
+I am eager to be challenged in order to grow and further improve my IT skills. My
 greatest passion in life is using my technical know-how to benefit other people and organisations.
 
 # Computer skills :
@@ -12,12 +12,16 @@ greatest passion in life is using my technical know-how to benefit other people 
 
 - spring boot
 - symfony
-- Web development and advanced programming
+- .Net
+- angular
+- Laravel
+### programming Language
 - Java
 - JavaScript
 - php
 - C#
 - SQL
+
 
 ### Operating systems
 - Linux
